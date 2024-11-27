@@ -1,0 +1,1 @@
+I think the current project is about using github and as of right now I have shown that I can use GitHub to make repositories and clone it to my terminal
