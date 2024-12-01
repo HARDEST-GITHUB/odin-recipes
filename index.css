@@ -1,14 +1,25 @@
-* {
+body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgba(222, 184, 135, 0.742);
+    background-color: rgb(222,186,137);
     color: white;
 }
 
 #title {
-    font-size: 40px;
+    background-color: beige;
+    font-size: 43px;
     text-align: center;
+    color: black;
 }
 
 img {
     width: 400px;
+}
+
+.heading {
+    font-size: 25px;
+    text-align: left;
+}
+
+.page {
+    background-color: beige;
 }
