@@ -13,18 +13,31 @@ body {
     font-size: 43px;
     text-align: center;
     color: #596F62;
+    width: 900px;
+    margin: 0 auto;
+    padding: 8px;
+    margin-top: 8px;
+    border: 8px solid #848FA5;
 }
 
 img {
+    display: block;
     width: 400px;
+    margin: 0 auto;
+    border: 8px solid #848FA5;
 }
 
 .heading {
     font-size: 25px;
     text-align: left;
     color: #596F62;
+    margin: 8px auto;
+    text-align: center;
 }
 
 .page {
     background-color: #edffec;
+    width: 900px;
+    margin: 12px auto;
+    border: 8px solid #848FA5;
 }
