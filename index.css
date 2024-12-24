@@ -20,20 +20,38 @@ body {
     border: 8px solid #848FA5;
 }
 
-img {
+.heading {
+    display: block;
+    font-size: 25px;
+    color: #596F62;
+    margin: 8px auto 0 auto;
+    border: 8px solid #848fA5;
+    padding: 4px;
+    width: 400px;
+    text-align: center;
+}
+
+.image {
     display: block;
     width: 400px;
-    margin: 0 auto;
+    margin: -8px auto 0 auto;
     border: 8px solid #848FA5;
     padding: 10px;
 }
 
-.heading {
-    font-size: 25px;
-    text-align: left;
-    color: #596F62;
-    margin: 8px auto;
-    text-align: center;
+.image.one {
+    background-color: #D17A22;
+    margin-bottom: 16px;
+}
+
+.image.two {
+    background-color: #c3acce;
+    margin-bottom: 16px;
+}
+
+.image.three {
+    background-color: #d65780;
+    margin-bottom: 8px;
 }
 
 .page {
