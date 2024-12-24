@@ -4,15 +4,15 @@
 
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(222,186,137);
+    background-color: #0d1f2d;
     color: white;
 }
 
 #title {
-    background-color: rgba(245, 233, 220);
+    background-color: #c6d8ff;
     font-size: 43px;
     text-align: center;
-    color: black;
+    color: #596F62;
 }
 
 img {
@@ -22,8 +22,9 @@ img {
 .heading {
     font-size: 25px;
     text-align: left;
+    color: #596F62;
 }
 
 .page {
-    background-color: rgb(245, 233, 220);
+    background-color: #c6d8ff;
 }
