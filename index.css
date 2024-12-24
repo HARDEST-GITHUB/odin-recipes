@@ -25,6 +25,7 @@ img {
     width: 400px;
     margin: 0 auto;
     border: 8px solid #848FA5;
+    padding: 10px;
 }
 
 .heading {
@@ -39,5 +40,5 @@ img {
     background-color: #edffec;
     width: 900px;
     margin: 12px auto;
-    border: 8px solid #848FA5;
+    border: 8px solid #848fA5;
 }
